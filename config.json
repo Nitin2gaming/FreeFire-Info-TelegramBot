@@ -1,11 +1,21 @@
 {
-    "ownerName": "1dev-hridoy",
-    "ownerUid": 123456789,
-    "botToken": "YOUR_BOT_TOKEN",
-    "baseUrl": "https://hridoy-ff-1.onrender.com/api",
-    "botPrefix": "/",
-    "allowedGroupId": -1002528061649,
-    "allowedGroupLink": "https://t.me/nexalo",
-    "verificationChannelUsername": "@bdnoobradeveloper",
-    "verificationChannelLink": "https://t.me/bdnoobradeveloper"
+
+"ownerName": "Nitin_bhai_ff",
+
+"ownerUid": 7148474712,
+
+"botToken": "8043822271:AAE4tOv2LS9r0WJyCYMBSNGi75PXx8n13AY",
+
+"baseUrl": "https://hridoy-ff-1.onrender.com/api",
+
+"botPrefix": "/",
+
+"allowedGroupId": -1002602627184,
+
+"allowedGroupLink": "https://t.me/Freefirenitin",
+
+"verificationChannelUsername": "@Nitinffvire",
+
+"verificationChannelLink": "https://t.me/Nitinffvire"
+
 }
